@@ -7,6 +7,9 @@ The Evil Recomp Within is a a native recompilation of The Evil Within (Xbox 360)
 
 https://github.com/user-attachments/assets/cfaab93a-2b65-4cc7-81aa-9cf052005363
 
+<img width="1920" height="1080" alt="IMG_20260908_195035" src="https://github.com/user-attachments/assets/fdf6c059-c075-446b-b7bd-61a38c6fa407" />
+
+
 (Recorded on Dimensity 820, 20-30 FPS 720p)
 
 # Game Information
