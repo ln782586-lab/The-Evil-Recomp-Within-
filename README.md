@@ -1,4 +1,4 @@
-# The-Evil-Recomp-Within-
+# Evil Recomp Within
 The Evil Recomp Within is a a native recompilation of The Evil Within (Xbox 360) for Android, IOS, MacOS
 
 <img width="1920" height="1080" alt="IMG_20260908_185306" src="https://github.com/user-attachments/assets/524066cd-fd84-4fe0-a933-d4463d9df3ea" />
@@ -72,3 +72,15 @@ benzumen
 quarkquake54
 
 veryunknownguy361
+
+# Development Progress
+
+Android (47%)
+
+IOS (12%)
+
+MacOS (No Progress)
+
+# Important
+
+Source code will be public once the recomp is finished.
