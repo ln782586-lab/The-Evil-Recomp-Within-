@@ -13,9 +13,17 @@ https://github.com/user-attachments/assets/cfaab93a-2b65-4cc7-81aa-9cf052005363
 
 The Evil Within is a 2014 survival horror game developed by Tango Gameworks and published by Bethesda Softworks. It was directed by Resident Evil series creator Shinji Mikami. The game centers on protagonist Sebastian Castellanos as he is pulled through a distorted world full of nightmarish locations and horrid creatures. Played in a third-person perspective, players battle disfigured nightmare-like enemies, including bosses, using guns and melee weapons, and progress through the levels, avoiding traps, using stealth, and finding collectables.
 
+<img width="285" height="350" alt="The_Evil_Within_boxart" src="https://github.com/user-attachments/assets/f055e7a9-3dbb-4d5d-9d9b-ac0f22c6159f" />
+
 # How do i run the game?
 
 To run the game you must have a legally obtained copy of The Evil Within (Xbox 360)
+
+<img width="500" height="334" alt="EvilWithin_The" src="https://github.com/user-attachments/assets/4530b934-2e70-4dfb-8245-3c65dc5fbf1a" />
+
+How you can dump your own copy:
+
+https://youtu.be/XBAQ6KuaX_c?si=TWfcCXpsID6fcuRD
 
 # Minimum System Requirements
 
