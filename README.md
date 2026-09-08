@@ -25,6 +25,12 @@ How you can dump your own copy:
 
 https://youtu.be/XBAQ6KuaX_c?si=TWfcCXpsID6fcuRD
 
+# Important
+
+The recomp is still new and have some bugs during Chapter 15 where Ruvik boss fight keep crashing, and missing textures at Chapter 11.
+
+Also the game is very easy to crash, we recommend you to do the low preset then start the game, if it doesn't crash then do default preset.
+
 # Minimum System Requirements
 
 Snapdragon 855 and higher 
@@ -88,7 +94,3 @@ Android (47%)
 IOS (12%)
 
 MacOS (No Progress)
-
-# Important
-
-Source code will be public once the recomp is finished.
