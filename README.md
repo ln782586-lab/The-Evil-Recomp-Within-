@@ -36,6 +36,8 @@ Also the game is very easy to crash, we recommend you to do the low preset then 
 
 Game is sensitive on low storage. Often breaking the game and textures doesn't load properly.
 
+Game sometimes can have infinite loading screen while loading into Chapter 5 and 9. We don't know what is happening but maybe will fix it soon.
+
 # Minimum System Requirements
 
 Snapdragon 855 and higher 
