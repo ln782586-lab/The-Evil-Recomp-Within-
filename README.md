@@ -34,6 +34,8 @@ The recomp is still new and have some bugs during Chapter 15 where Ruvik boss fi
 
 Also the game is very easy to crash, we recommend you to do the low preset then start the game, if it doesn't crash then do default preset.
 
+Game is sensitive on low storage. Often breaking the game and textures doesn't load properly.
+
 # Minimum System Requirements
 
 Snapdragon 855 and higher 
